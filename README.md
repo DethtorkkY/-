@@ -1,7 +1,7 @@
-# 21_play
+# Project-21
 
 ## About
-Hi, I 21 GAME, CLICK START
+Hi, this is a code of a Game in Telegramm bot, named 21.
 
 ## Usage:
 
